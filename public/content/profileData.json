@@ -133,32 +133,6 @@
       "location": ""
     },
     {
-      "id": "cZ4zMgaZQouB8cQC7Zmh",
-      "year": "2024",
-      "heading": "Totalidad at Finale Art File",
-      "url": null,
-      "collaborators": [],
-      "description": "Curatorial work, Exhibition design, Writing",
-      "attachments": [],
-      "type": "exhibition",
-      "title": "Totalidad",
-      "venue": "Finale Art File",
-      "location": ""
-    },
-    {
-      "id": "K3hliQbChII5dDYTNo28",
-      "year": "2024",
-      "heading": "Mouth Words, Muster Murmurs at Finale Art File",
-      "url": null,
-      "collaborators": [],
-      "description": "Curatorial work, Exhibition design, Writing",
-      "attachments": [],
-      "type": "exhibition",
-      "title": "Mouth Words, Muster Murmurs",
-      "venue": "Finale Art File",
-      "location": ""
-    },
-    {
       "id": "XWJNQWE5OFEz2zhkpadB",
       "year": "2024",
       "heading": "Dog-Eared Dream at West Gallery",
@@ -195,6 +169,32 @@
       "type": "exhibition",
       "title": "Jonathan Ching Special Exhibition",
       "venue": "Art Fair Philippines",
+      "location": ""
+    },
+        {
+      "id": "cZ4zMgaZQouB8cQC7Zmh",
+      "year": "2023",
+      "heading": "Totalidad at Finale Art File",
+      "url": null,
+      "collaborators": [],
+      "description": "Curatorial work, Exhibition design, Writing",
+      "attachments": [],
+      "type": "exhibition",
+      "title": "Totalidad",
+      "venue": "Finale Art File",
+      "location": ""
+    },
+        {
+      "id": "K3hliQbChII5dDYTNo28",
+      "year": "2023",
+      "heading": "Mouth Words, Muster Murmurs at Finale Art File",
+      "url": null,
+      "collaborators": [],
+      "description": "Curatorial work, Exhibition design, Writing",
+      "attachments": [],
+      "type": "exhibition",
+      "title": "Mouth Words, Muster Murmurs",
+      "venue": "Finale Art File",
       "location": ""
     },
     {
@@ -1633,8 +1633,8 @@
         {
           "id": "NOqILdqMP9ha6mIzvtUM",
           "platform": "Email",
-          "handle": "eyascapes@gmail.com",
-          "url": "mailto:eyascapes@gmail.com"
+          "handle": "eyabeldia@gmail.com",
+          "url": "mailto:eyabeldia@gmail.com"
         }
       ]
     }
